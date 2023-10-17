@@ -3,6 +3,7 @@
 
 ### O *ToGo!* é uma plataforma que pretende democratizar o acesso ao lazer, fornecendo as melhores indicações de rolês e eventos culturais de acordo com o contexto do usuário. 🌟
 
+![Demo do ToGo!](https://github.com/amandaarruda/ToGo/assets/66084295/931e6a74-edce-43a8-bbc9-71b1523fee9f)
 
 ---
 ### 📱 Sobre o projeto desenvolvido para a Campus Mobile 11:
